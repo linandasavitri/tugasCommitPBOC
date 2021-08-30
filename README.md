@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+LINANDA SAVITRI / 202410101049
